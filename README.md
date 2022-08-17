@@ -1,11 +1,11 @@
 # Checkmates
-Checkmates (originally known as Roommate) is an all-in-one home-life management software. Please click [here](https://checkmatesco.web.app) to go to the website.
-
-![mockup](https://user-images.githubusercontent.com/53277408/185018360-3e1dec0a-97cd-4ee3-a0a8-09ce6c1e9f69.png)
+CheckMates (formerly known as Roommate) is an application that allows individuals living together (Mates) to join a group (Space), where their shared responsibilities (Tasks) are listed in an intuitive user interface. Tasks are automatically assigned to Mates in each unique Space, evenly distributing any workload. Allowing CheckMates to delegate Tasks around the Space instead of having someone manage the task assignments streamlines communication between Mates on what Tasks need to get done. Automatic assignment of Tasks also prevents any uncomfortable interactions between Mates about who is doing what Task, reducing confrontation. Click [here](https://checkmatesco.web.app) to go to the website, or you can go to the [Example Homepage section](https://github.com/atran112/roommate/edit/master/README.md#example-homepage) to see how a typical homepage would look like.
 
 ## About
 This website was built by a group of five people for a Summer Computer Science program over the course of only five weeks. With these constraints, the goal was to build a minimum viable product that we felt could be "shipped" at the end of the program.
 
-## Homepage
-Below is how a typical homepage would look on either Desktop or Mobile. As you can see there are two users and multiple tasks listed.
+## Example Homepage
+Below is how a typical homepage with two Mates and multiple tasks would look like on either Desktop or Mobile. On the top left is the checkmates logo (this is omitted and replaced by the name and the and description of the Space on mobile). By clicking on it, it will bring you back to the homepage. In the middle is the name of the Space and below is a description of that space. On the top right, are two buttones where the user can logout of the website or view their profile (i.e. username and email). Underneath the logo, there is an "Add Mate" button. Clicking this will reveal the Space key to share with others who want to join the space. Below that are users who are in the Space. To the right of this there is the "Create Task" button. Clicking on this will allow the user to create new tasks to be added to the space. Below that are existing tasks which contain the title and description of that task. A user can choose to complete, delete, or favor (i.e. take over a task that was assigned to another Mate) a task.
+
+![mockup](https://user-images.githubusercontent.com/53277408/185018360-3e1dec0a-97cd-4ee3-a0a8-09ce6c1e9f69.png)
 
